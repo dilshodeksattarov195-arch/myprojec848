@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "cachefalculate",
+        "uuid": 4007648,
+        "checksum": "iagsy"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": true,
+        "mode": "production"
+    }
+}
